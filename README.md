@@ -32,7 +32,7 @@ POS Txn,Dept,ID,Sales U
 ## 🔧 Tecnologias Utilizadas
 
 ### Linguagem
-- **Python 3.8+**
+- **Python 3.12+**
 
 ### Bibliotecas Principais
 - **pandas**: Manipulação e análise de dados
@@ -46,6 +46,7 @@ POS Txn,Dept,ID,Sales U
 - **VS Code**: Editor de código
 
 ## 🚀 Instalação e Configuração
+OBS: Caso queira optar por executar em ambientes como Google collab ou Anaconda jupyter, basta descomentar a primeira célula do arquivo ipynb e executar o arquivo caso esteja faltando alguma dependencia. É uma alternativa ao arquivo requirements.txt.
 
 ### 1. Clone o repositório
 ```bash
@@ -170,15 +171,6 @@ O projeto gera:
 - Considere usar FP-Growth para datasets muito grandes
 - O parâmetro de suporte influencia diretamente no tempo de execução
 
-## 👥 Contribuições
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
 
 ## 📄 Licença
 
